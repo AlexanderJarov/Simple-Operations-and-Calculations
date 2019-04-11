@@ -1,0 +1,7 @@
+c:\users\jarov\source\repos\simpleCalculation\currencyConverter\bin\Debug\currencyConverter.exe.config
+c:\users\jarov\source\repos\simpleCalculation\currencyConverter\bin\Debug\currencyConverter.exe
+c:\users\jarov\source\repos\simpleCalculation\currencyConverter\bin\Debug\currencyConverter.pdb
+c:\users\jarov\source\repos\simpleCalculation\currencyConverter\obj\Debug\currencyConverter.csprojAssemblyReference.cache
+c:\users\jarov\source\repos\simpleCalculation\currencyConverter\obj\Debug\currencyConverter.csproj.CoreCompileInputs.cache
+c:\users\jarov\source\repos\simpleCalculation\currencyConverter\obj\Debug\currencyConverter.exe
+c:\users\jarov\source\repos\simpleCalculation\currencyConverter\obj\Debug\currencyConverter.pdb
